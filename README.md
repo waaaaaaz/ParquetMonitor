@@ -6,3 +6,7 @@
 - 展现所有字段的最新值
 - 插入监控值，位移值到InfluxDB, 配置Grafana展现
 
+
+####    License
+
+MIT
